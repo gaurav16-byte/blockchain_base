@@ -1,4 +1,6 @@
-**Some pieces of code has been intentionally redacted**
+**Some pieces of code have been intentionally redacted**
+
+***I know what i programmed and have a backup copy for the same***
 
 **REASON: It's a college project plus copying code makes you a script kiddie**
 
